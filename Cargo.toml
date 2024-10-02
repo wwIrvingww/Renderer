@@ -1,0 +1,8 @@
+[package]
+name = "Renderer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tobj = "2.0"   
+nalgebra-glm = "0.11.0"
